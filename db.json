@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1374,
+      "title": "First note",
+      "text": "it's my #first task",
+      "tags": [
+        "#first"
+      ],
+      "date": "14.07.2019, 02:13:46"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "#fd"
+    },
+    {
+      "id": 2,
+      "title": "#dd"
+    },
+    {
+      "id": 3,
+      "title": "#dd"
+    }
+  ]
+}
